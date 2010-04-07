@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /heu
+Disallow: /LOs/heu
+Disallow: /heu/hnangelo.pdf
+Disallow: /LOs/heu/hnangelo.pdf
